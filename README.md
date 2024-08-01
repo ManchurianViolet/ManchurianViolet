@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManchurianViolet
+- 👋 Hi, I’m @Manchurian
 - 👀 I’m interested in ... Game programming
 - 🌱 I’m currently learning ... C++, Unreal Engine
 - 💞️ I’m looking to collaborate on ... 
