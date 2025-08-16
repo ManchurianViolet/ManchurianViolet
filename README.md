@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jebicott
 - 👀 I’m interested in ... Game programming
-- 🌱 I’m currently learning ... C++, Unreal Engine
+- 🌱 I’m currently learning ... C#, C++, Unity, Unreal Engine
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... yongchan0302@gmail.com
 
