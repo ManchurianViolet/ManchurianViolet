@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Game programming
 - 🌱 I’m currently learning ... C#, C++, Unity, Unreal Engine
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... yongchan0302@gmail.com
+- 📫 How to reach me ... jebidev0302@gmail.com
 
 <!---
 ManchurianViolet/ManchurianViolet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
